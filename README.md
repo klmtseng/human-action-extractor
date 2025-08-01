@@ -2,8 +2,8 @@
 
 A web-based tool that uses TensorFlow.js and the MoveNet model to perform real-time human pose estimation on user-uploaded videos. It visualizes the detected skeleton and allows users to extract and download the keypoint data as a JSON file.
 
-**Live Demo:** [**https://<your-username>.github.io/human-action-extractor/**](https://<your-username>.github.io/human-action-extractor/) 
-*(Replace with your actual GitHub Pages link)*
+**Live Demo:** [**https://klmtseng.github.io/human-action-extractor/**](https://klm.tseng.github.io/human-action-extractor/) 
+
 
 ---
 
