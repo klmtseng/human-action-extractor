@@ -4,6 +4,7 @@ A web-based tool that uses TensorFlow.js and the MoveNet model to perform real-t
 
 **Live Demo:** [**https://klmtseng.github.io/human-action-extractor/**](https://klm.tseng.github.io/human-action-extractor/) 
 
+https://klmtseng.github.io/human-action-extractor/
 
 ---
 
